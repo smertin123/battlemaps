@@ -24,3 +24,12 @@ https://github.com/smertin123/Bloodbowl-Pitches
 
 ### Mortsafe
 ![mortsafe](/Forbidden%20Psalm/Core/07-mortsafe.png)
+
+### Eater of socks
+![eater-of-socks](/Forbidden%20Psalm/Core/08-eater-of-socks.png)
+
+### The forbidden psalm
+![the-forbidden-psalm](/Forbidden%20Psalm/Core/09-the-forbidden-psalm.png)
+
+### There can be only one
+![there-can-be-only-one](/Forbidden%20Psalm/Core/10-there-can-be-only-one.png)
